@@ -19,7 +19,7 @@ OPPTimeClass/
 ## ⚙️ Tech Stack
 
 - **Lenguaje:** C# 
-- **Framework:** .NET 8
+- **Framework:** .NET 10
 - **IDE:** Visual Studio 2026
 
 ## 📚 Concepts Applied
@@ -31,7 +31,7 @@ OPPTimeClass/
 - Carry-over logic in time addition
 
 ## 👩‍💻 Author
-- Name: Estefanía Bermúdez
-- Course: Data Structure
-- Institution: ITM — Mobile Application Development
-- Semester: 3
+- **Name:** Estefanía Bermúdez
+- **Course:** Data Structure
+- **Institution:** ITM — Mobile Application Development
+- **Semester:** 3
