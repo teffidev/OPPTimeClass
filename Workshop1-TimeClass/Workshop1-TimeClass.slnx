@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OPPTimeClass.Backend/OPPTimeClass.Backend.csproj" Id="ba1e1504-563b-44db-8fea-896e67d65376" />
+  <Project Path="OPPTimeClass.Frontend/OPPTimeClass.Frontend.csproj" Id="4d4b6d48-ca86-46bf-9e00-876e7b3d1645" />
+</Solution>
