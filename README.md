@@ -8,11 +8,13 @@ The `Time` class represents a time of day with millisecond precision, applying t
 
 ## 🏗️ Project Structure
 
+```
 OPPTimeClass/
 ├── OPPTimeClass.Backend/
 │   └── Time.cs          # Core class with all business logic
 └── OPPTimeClass.Frontend/
     └── Program.cs       # Main program for testing
+```
 
 ## ⚙️ Tech Stack
 
@@ -29,7 +31,7 @@ OPPTimeClass/
 - Carry-over logic in time addition
 
 ## 👩‍💻 Author
-Name: [Estefanía Bermúdez]
-Course: Data Structure
-Institution: ITM — Mobile Application Development
-Semester: 3
+- Name: Estefanía Bermúdez
+- Course: Data Structure
+- Institution: ITM — Mobile Application Development
+- Semester: 3
